@@ -26,6 +26,7 @@ SECRET_KEY = 'django-insecure-+da5sd!@&++2s^d9r0n+owjeyzcbg=qsdd9(@-ho)^zamn3hq6
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-terrymartin-djangoproje-vz2xnbwo5k8.ws.codeinstitute-ide.net']
+# ALLOWED_HOSTS = ['http://8000-terrymartin-djangoproje-vz2xnbwo5k8.ws.codeinstitute-ide.net/']
 
 
 # Application definition
